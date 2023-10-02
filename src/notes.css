@@ -1,0 +1,36 @@
+.nota-css{
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+.nota-css button {
+    border-radius: 30px;
+    color: white;
+    background: black;
+    margin-top: 10px;
+}
+
+.nota-css textarea{
+    background-color: black;
+    border-radius: 10px;
+}
+
+.form-css{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.cover-cards{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.users-card{
+    background-color: beige;
+    color: gray;
+    gap: 10px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 30px;
+}
